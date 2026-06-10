@@ -14,9 +14,9 @@ Studying Computer Science / Software Development
 ## 📊 Github Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuriloSobral17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSobral17&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
