@@ -6,7 +6,7 @@ Studying Computer Science / Software Development
 
 ## 😎 How to contact me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilo-sobral-lisboa-da-silva-63059022b)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-sobral-lisboa-da-silva-63059022b)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilosobraldev17@gmail.com)
 
 ---
@@ -27,9 +27,9 @@ This section highlights my main development projects, focusing on mobile archite
 
 ### 🛠️ Tech Stack & Implementations
 
-* **[Ecorota]([link-do-repositorio](https://github.com/MuriloSobral17/projeto-ecorota.git))** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=flat&logo=sqlite&logoColor=white)
+* **[Nome_do_Seu_Projeto_Android](link-do-repositorio)** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=flat&logo=sqlite&logoColor=white)
   * Native Android application developed using **Android Studio** and **Java**. Implements local data persistence with **SQLite** to ensure reliable storage and offline functionality.
-* **[ScreenMatch](https://github.com/MuriloSobral17/ScreenMatch.git)** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+* **[ScreenMatch](link-do-seu-repositorio-screenmatch)** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
   * Backend application focusing on Object-Oriented Programming (OOP) best practices, inheritance, encapsulation, and clean logic for movie and series cataloging.
 
 ---
